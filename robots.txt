@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://dias-beserra-sitev2.vercel.app
+Sitemap: https://dias-beserra-sitev2.vercel.app/sitemap.xml
